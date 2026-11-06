@@ -125,10 +125,21 @@ Companion repo: `play-log-tool-server` (FastAPI + PostgreSQL). Devices pull conf
 - Do not use SDL2/mesa for the foreground UI, and do not set `__nx_fs_num_sessions=16` (causes startup hangs).
 - See [AGENTS.md](AGENTS.md) for black-screen/ABI/font/deployment troubleshooting.
 
-## Star
+## Related projects & Star
 
-If this project is useful to you, please consider giving it a **Star** ⭐
+- Client (this repo): [elijahxb/switch-playlogtool](https://github.com/elijahxb/switch-playlogtool)
+- Server: [elijahxb/switch-playlogtool-server](https://github.com/elijahxb/switch-playlogtool-server)
+
+If this project is useful to you, please consider giving the client or server repo a **Star** ⭐
+
+Client:
 
 [![GitHub stars](https://img.shields.io/github/stars/elijahxb/switch-playlogtool?style=social)](https://github.com/elijahxb/switch-playlogtool)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=elijahxb/switch-playlogtool&type=Date)](https://star-history.com/#elijahxb/switch-playlogtool&Date)
+
+Server:
+
+[![GitHub stars](https://img.shields.io/github/stars/elijahxb/switch-playlogtool-server?style=social)](https://github.com/elijahxb/switch-playlogtool-server)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=elijahxb/switch-playlogtool-server&type=Date)](https://star-history.com/#elijahxb/switch-playlogtool-server&Date)
