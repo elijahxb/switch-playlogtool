@@ -124,3 +124,11 @@ Companion repo: `play-log-tool-server` (FastAPI + PostgreSQL). Devices pull conf
 - **Never use the online system update in CFW** (may burn fuses and break the setup).
 - Do not use SDL2/mesa for the foreground UI, and do not set `__nx_fs_num_sessions=16` (causes startup hangs).
 - See [AGENTS.md](AGENTS.md) for black-screen/ABI/font/deployment troubleshooting.
+
+## Star
+
+If this project is useful to you, please consider giving it a **Star** ⭐
+
+[![GitHub stars](https://img.shields.io/github/stars/elijahxb/switch-playlogtool?style=social)](https://github.com/elijahxb/switch-playlogtool)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=elijahxb/switch-playlogtool&type=Date)](https://star-history.com/#elijahxb/switch-playlogtool&Date)

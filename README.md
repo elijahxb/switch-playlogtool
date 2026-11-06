@@ -124,3 +124,11 @@ make package
 - **不要在 CFW 中在线更新系统**（可能烧熔断、破坏破解环境）。
 - 前台 UI 不要使用 SDL2/mesa；不要设置 `__nx_fs_num_sessions=16`（会导致启动卡死）。
 - 更多排障细节（黑屏、ABI、字体、部署）见 [AGENTS.md](AGENTS.md)。
+
+## Star
+
+如果这个项目对你有帮助，欢迎点个 **Star** ⭐
+
+[![GitHub stars](https://img.shields.io/github/stars/elijahxb/switch-playlogtool?style=social)](https://github.com/elijahxb/switch-playlogtool)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=elijahxb/switch-playlogtool&type=Date)](https://star-history.com/#elijahxb/switch-playlogtool&Date)
